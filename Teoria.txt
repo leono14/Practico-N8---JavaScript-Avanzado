@@ -1,9 +1,9 @@
 Explica con tus propias palabras los siguientes conceptos.
 
 - Que es un hashTable?
+Es una estructura de datos que asocia llaves o claves con valores.
 
-- Que hace un get 
-
-- Que hace un set
-
-- Para que sirve un hashTable?
+- Que hace un get y que hace un set?
+Ambos métodos se usan tanto para asignar y extraer atributos de un objeto.
+- Para que sirve un hashTable? (copiado literalmente)
+Una tabla hash o mapa hash es una estructura de datos que asocia llaves o claves con valores. La operación principal que soporta de manera eficiente es la búsqueda: permite el acceso a los elementos (teléfono y dirección, por ejemplo) almacenados a partir de una clave generada usando el nombre, número de cuenta o id.
